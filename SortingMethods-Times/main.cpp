@@ -33,9 +33,9 @@ int main(int argc, char** argv)
 	    <<endl
 	    <<"CPU: Intel<R>"
 	    <<endl
-	    <<"     Core 2 Duo 2.66 Ghz"
+	    <<"     i5-3470 3.2 Ghz"
 	    <<endl
-	    <<"RAM: 4 GB"
+	    <<"RAM: 16 GB"
 	    <<endl
 	    <<"========================"
 	    <<endl
