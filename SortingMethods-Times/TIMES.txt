@@ -1,0 +1,5 @@
+ARRAY SIZE = 8,    ARRAY TYPE = 50% Sorted, 50% Random
+         EXECUTION TMES (seconds)
+BubbleSort SelectSort InsertSort QuickSort
+========== ========== ========== =========
+     0.000      0.000      0.000     0.000
